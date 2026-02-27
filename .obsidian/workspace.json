@@ -71,12 +71,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WP-World-Of-Essentia/world_building/00_glossary.md",
+                "file": "WP-Author-Study/Shirtaloon/03_world_building_study.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_glossary"
+              "title": "03_world_building_study"
             }
           }
         ],
@@ -229,8 +229,29 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3b19cf68424d4eb1",
+  "active": "ff69956098e407aa",
   "lastOpenFiles": [
+    "WP-Author-Study/CasualFarmer/02_character_study.md",
+    "WP-Author-Study/CasualFarmer/01_prose_study.md",
+    "WP-Author-Study/CasualFarmer/00_story_study.md",
+    "WP-Author-Study/CasualFarmer/03_world_building_study.md",
+    "WP-Author-Study/Travis Baldree/02_character_study.md",
+    "WP-Author-Study/Travis Baldree/01_prose_study.md",
+    "WP-Author-Study/Travis Baldree/00_story_study.md",
+    "WP-Author-Study/Travis Baldree/03_world_building_study.md",
+    "WP-Author-Study/02_character_study.md",
+    "WP-Author-Study/01_prose_study.md",
+    "WP-Author-Study/00_story_study.md",
+    "WP-Author-Study/03_world_building_study.md",
+    "WP-Author-Study/Shirtaloon/00_story_study.md",
+    "WP-Author-Study/Shirtaloon/01_prose_study.md",
+    "WP-Author-Study/Shirtaloon/03_world_building_study.md",
+    "WP-Author-Study/Shirtaloon/02_character_study.md",
+    "WP-World-Of-Essentia/world_building/00_glossary.md",
+    "WP-Author-Study/Shirtaloon/Untitled",
+    "WP-Author-Study/Travis Baldree",
+    "WP-Author-Study/CasualFarmer",
+    "WP-Author-Study/Shirtaloon",
     "stories/short_stories/all_she_gave_the_flame/chapter_plans/chapter_plan_00.md",
     "stories/short_stories/all_she_gave_the_flame/story_plans/06_prose.md",
     "stories/short_stories/all_she_gave_the_flame/story_plans/05_knowledge_plan.md",
@@ -240,34 +261,13 @@
     "stories/short_stories/all_she_gave_the_flame/story_plans/00_premise.md",
     "world_building/subsystems/awakened/_overview.md",
     "development_log.md",
-    "world_building/09_open_questions.md",
-    "world_building/05_mythological_creatures.md",
-    "world_building/fundamentals/03_attunement_and_progression.md",
-    "world_building/fundamentals/01_essence_and_the_ether.md",
-    "stories/reader_knowledge_tracker.md",
-    "stories/short_stories/all_she_gave_the_flame/_dashboard.md",
     "world_building/maps/ahi_vara/ahi_vara.svg",
-    "tasks/project_analysis.md",
-    "world_building/fundamentals/02_vis_souls_and_the_cycle.md",
     "stories/short_stories/bob",
-    "stories/short_stories/all_she_gave_the_flame/story_plans/02_characters.md",
-    "tasks/tonights_questions.md",
-    "world_building/08_knowledge_concepts.md",
-    "readme.md",
-    "project_analysis.md",
-    "tonights_questions.md",
-    "DEVLOG.md",
-    "world_building/10_dev_log.md",
-    "world_building/07_architecture_and_built_environment.md",
     "scripts/cross-ref-filter.lua",
     "scripts",
     "world_building/maps/ahi_vara/Unconfirmed 892325.crdownload",
     "world_building/maps/ahi_vara/ahi_vara.map",
     "world_building/maps/ahi_vara",
-    "world_building/maps/untitled folder",
-    "world_building/maps",
-    "world_building/subsystems/mages",
-    "world_building/subsystems/awakened",
     "Untitled.canvas"
   ]
 }
