@@ -7,3 +7,6 @@
 [submodule "WP-Author-Study"]
 	path = WP-Author-Study
 	url = https://github.com/Broomfields/WP-Author-Study
+[submodule "WP-Skills-Study"]
+	path = WP-Skills-Study
+	url = https://github.com/Broomfields/WP-Skills-Study
