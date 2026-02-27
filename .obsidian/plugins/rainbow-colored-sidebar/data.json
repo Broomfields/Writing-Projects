@@ -2,11 +2,14 @@
   "scheme": "csBlue",
   "increaseContrast": false,
   "folderList": [
-    "stories/short_stories",
-    "stories/short_stories/all_she_gave_the_flame",
-    "world_building",
-    "world_building/fundamentals",
-    "world_building/subsystems",
-    "world_building/maps"
+    "WP-World-Of-Essentia/stories/short_stories",
+    "WP-World-Of-Essentia/stories/short_stories/all_she_gave_the_flame",
+    "WP-World-Of-Essentia/world_building",
+    "WP-World-Of-Essentia/world_building/fundamentals",
+    "WP-World-Of-Essentia/world_building/subsystems",
+    "WP-World-Of-Essentia/world_building/maps",
+    "WP-World-Of-Essentia",
+    "WP-Author-Study",
+    "WP-Miscellaneous-World-Building"
   ]
 }
