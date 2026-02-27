@@ -1,0 +1,12 @@
+{
+  "scheme": "csBlue",
+  "increaseContrast": false,
+  "folderList": [
+    "stories/short_stories",
+    "stories/short_stories/all_she_gave_the_flame",
+    "world_building",
+    "world_building/fundamentals",
+    "world_building/subsystems",
+    "world_building/maps"
+  ]
+}
