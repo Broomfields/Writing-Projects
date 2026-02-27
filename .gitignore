@@ -1,2 +1,13 @@
+# OS junk
 .DS_Store
-/.obsidian
+Thumbs.db
+
+# Editor artefacts
+*.swp
+*.swo
+.vscode/
+.obsidian/
+.claude/
+
+# Build artefacts
+*.pdf
