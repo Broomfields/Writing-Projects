@@ -4,83 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "8fe8ff81dbcfb5f7",
+        "id": "dcabf36e6f151063",
         "type": "tabs",
+        "dimension": 47.29272419627749,
         "children": [
-          {
-            "id": "3fce329e8b3c14d3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "world_building/fundamentals/01_essence_and_the_ether.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "01_essence_and_the_ether"
-            }
-          },
-          {
-            "id": "e29b2bc880249e38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "world_building/fundamentals/01_essence_and_the_ether.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01_essence_and_the_ether"
-            }
-          },
-          {
-            "id": "72ff968b6658000b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "development_log.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "development_log"
-            }
-          },
-          {
-            "id": "1add9b751ec98e13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "world_building/fundamentals/02_vis_souls_and_the_cycle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02_vis_souls_and_the_cycle"
-            }
-          },
           {
             "id": "3b19cf68424d4eb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WP-Skills-Study/prose_techniques/00_beginning_and_ending.md",
+                "file": "WP-World-Of-Essentia/world_building/fundamentals/01_essence_and_the_ether.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_beginning_and_ending"
+              "title": "01_essence_and_the_ether"
             }
           }
-        ],
-        "currentTab": 4
+        ]
+      },
+      {
+        "id": "8fe8ff81dbcfb5f7",
+        "type": "tabs",
+        "dimension": 52.70727580372251,
+        "children": [
+          {
+            "id": "47c1f7bdc6ac743c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WP-World-Of-Essentia/world_building/fundamentals/04_vis_applications_and_formations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04_vis_applications_and_formations"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,22 +85,12 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
-          {
-            "id": "48e95b99d40efe14",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 394.5
   },
   "right": {
     "id": "6877c3401daf685b",
@@ -153,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WP-World-Of-Essentia/world_building/fundamentals/04_vis_applications_and_formations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 04_vis_applications_and_formations"
             }
           },
           {
@@ -200,74 +154,85 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "world_building/01_magic_system.md",
+                "file": "WP-World-Of-Essentia/world_building/fundamentals/04_vis_applications_and_formations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01_magic_system"
+              "title": "Outline of 04_vis_applications_and_formations"
+            }
+          },
+          {
+            "id": "8e3ea79a011dbea9",
+            "type": "leaf",
+            "state": {
+              "type": "tlfItemView",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "File Info View"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
+      "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
+      "obsidian-file-info-plugin:File Info Panel": false,
+      "enlightenment-obsidian:Cycle through Enlightenment modes (off, across all panes, or the active pane only)": false,
+      "bases:Create new base": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ff69956098e407aa",
+  "active": "47c1f7bdc6ac743c",
   "lastOpenFiles": [
-    "Notes",
-    "WP-Skills-Study/prose_techniques/03_scenes.md",
-    "WP-Skills-Study/prose_techniques/00_beginning_and_ending.md",
-    "WP-Skills-Study/prose_techniques/02_dialogue.md",
-    "WP-Skills-Study/prose_techniques/01_describing.md",
-    "WP-Skills-Study/character_writing/03_actively_writing_relations.md",
-    "WP-Skills-Study/character_writing/00_character_creation.md",
-    "WP-Skills-Study/character_writing/01_character_development.md",
-    "WP-Skills-Study/character_writing/02_actively_writing_personality.md",
-    "WP-Author-Study/Shirtaloon/03_world_building_study.md",
-    "WP-Skills-Study/prose_techniques",
-    "WP-Skills-Study/story_writing",
-    "WP-Skills-Study/character_writing",
-    "WP-Skills-Study/README.md",
-    "WP-Skills-Study",
-    "WP-Author-Study/CasualFarmer/02_character_study.md",
-    "WP-Author-Study/CasualFarmer/01_prose_study.md",
-    "WP-Author-Study/CasualFarmer/00_story_study.md",
-    "WP-Author-Study/CasualFarmer/03_world_building_study.md",
-    "WP-Author-Study/Travis Baldree/02_character_study.md",
-    "WP-Author-Study/Travis Baldree/01_prose_study.md",
-    "WP-Author-Study/Travis Baldree/00_story_study.md",
-    "WP-Author-Study/Travis Baldree/03_world_building_study.md",
-    "WP-Author-Study/02_character_study.md",
-    "WP-Author-Study/01_prose_study.md",
-    "WP-Author-Study/00_story_study.md",
-    "WP-Author-Study/03_world_building_study.md",
-    "WP-Author-Study/Shirtaloon/00_story_study.md",
-    "WP-Author-Study/Shirtaloon/01_prose_study.md",
-    "WP-Author-Study/Shirtaloon/02_character_study.md",
-    "WP-Author-Study/Shirtaloon/Untitled",
-    "WP-Author-Study/Travis Baldree",
-    "WP-Author-Study/CasualFarmer",
-    "WP-Author-Study/Shirtaloon",
+    "WP-World-Of-Essentia/stories/short_stories/all_she_gave_the_flame/story_plans/02_characters.md",
+    "WP-World-Of-Essentia/world_building/fundamentals/01_essence_and_the_ether.md",
+    "README.md",
+    "WP-World-Of-Essentia/world_building/05_mythological_creatures.md",
+    "WP-World-Of-Essentia/world_building/00_glossary.md",
+    "WP-World-Of-Essentia/world_building/01_society_and_culture.md",
+    "WP-World-Of-Essentia/world_building/02_languages_and_naming.md",
+    "WP-World-Of-Essentia/development_log.md",
+    "WP-World-Of-Essentia/README.md",
+    "WP-World-Of-Essentia/world_building/03_geography_and_territories.md",
+    "WP-World-Of-Essentia/world_building/07_architecture_and_built_environment.md",
+    "WP-World-Of-Essentia/stories/reader_knowledge_tracker.md",
+    "WP-World-Of-Essentia/world_building/08_knowledge_concepts.md",
+    "WP-World-Of-Essentia/stories/short_stories/all_she_gave_the_flame/story_plans/06_prose.md",
+    "WP-Author-Study/Andy Weir/01_prose_study.md",
+    "WP-Author-Study/Andy Weir/00_story_study.md",
+    "WP-Author-Study/Andy Weir/03_world_building_study.md",
+    "WP-Author-Study/Andy Weir/02_character_study.md",
+    "WP-World-Of-Essentia/world_building/fundamentals/05_spirit_beasts_and_natural_attunement.md",
+    "WP-World-Of-Essentia/world_building/fundamentals/04_vis_applications_and_formations.md",
+    "WP-World-Of-Essentia/world_building/fundamentals/03_attunement_and_progression.md",
+    "WP-World-Of-Essentia/world_building/fundamentals/02_vis_souls_and_the_cycle.md",
+    "WP-World-Of-Essentia/stories/short_stories/all_she_gave_the_flame/chapter_plans/chapter_plan_05.md",
+    "WP-World-Of-Essentia/stories/short_stories/all_she_gave_the_flame/chapter_plans/chapter_plan_00.md",
+    "WP-World-Of-Essentia/stories/short_stories/all_she_gave_the_flame/story_plans/03_sect_structure.md",
+    "WP-World-Of-Essentia/stories/short_stories/all_she_gave_the_flame/story_plans/04_setting.md",
+    "WP-Author-Study/Jay Krauss",
+    "WP-Author-Study/William Shakespeare",
+    "WP-Author-Study/Dennis E Taylor",
+    "WP-Author-Study/Will Wight",
+    "WP-Author-Study/Andy Weir",
+    "WP-Author-Study/Karen Traviss",
+    "WP-Author-Study/Zogarth",
+    "WP-Author-Study/XKarnation",
+    "WP-Author-Study/Rhaegar",
+    "WP-Author-Study/Terry Pratchett",
     "world_building/maps/ahi_vara/ahi_vara.svg",
-    "stories/short_stories/bob",
-    "scripts/cross-ref-filter.lua",
     "Untitled.canvas"
   ]
 }

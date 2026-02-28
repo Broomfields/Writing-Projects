@@ -39,12 +39,6 @@
         "order": 5
       },
       {
-        "rule": "story",
-        "icon": "LiScrollText",
-        "for": "everything",
-        "order": 6
-      },
-      {
         "rule": "chapter",
         "icon": "LiScrollText",
         "for": "everything",
