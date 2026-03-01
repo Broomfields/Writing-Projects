@@ -1,12 +1,12 @@
-[submodule "WP-World-Of-Essentia"]
-	path = WP-World-Of-Essentia
-	url = https://github.com/Broomfields/WP-World-Of-Essentia
 [submodule "WP-Miscellaneous-World-Building"]
 	path = WP-Miscellaneous-World-Building
 	url = https://github.com/Broomfields/WP-Miscellaneous-World-Building
-[submodule "WP-Author-Study"]
-	path = WP-Author-Study
-	url = https://github.com/Broomfields/WP-Author-Study
 [submodule "WP-Skills-Study"]
 	path = WP-Skills-Study
 	url = https://github.com/Broomfields/WP-Skills-Study
+[submodule "WP-Author-Study"]
+	path = WP-Author-Study
+	url = https://github.com/Broomfields/WP-Author-Study
+[submodule "WP-World-Of-Essentia"]
+	path = WP-World-Of-Essentia
+	url = https://github.com/Broomfields/WP-World-Of-Essentia
