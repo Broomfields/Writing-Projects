@@ -8,7 +8,7 @@ This is the parent repository for all of my personal writing work. It doesn't co
 
 ## Submodules
 
-This repository references five submodules. Three are public and two are private.
+This repository references six submodules. Four are public and two are private.
 
 ### [WP-Author-Study](https://github.com/Broomfields/WP-Author-Study) — Public
 
@@ -21,6 +21,10 @@ A focused study of specific writing skills and techniques, independent of any pa
 ### [WP-Opus-Civile](https://github.com/Broomfields/WP-Opus-Civile) — Public
 
 An alternate history world building project set during the mid-to-late Roman Republic, exploring what happens when an industrial revolution arrives centuries too early. The Republic's fractured, faction-driven nature means no single authority can harness or suppress the new technology — innovation spreads unevenly, power shifts, and the world changes in ways no one fully controls. The project builds out the politics, people, and profound social upheaval of that world, as a foundation for at least one standalone narrative.
+
+### [WP-Template](https://github.com/Broomfields/WP-Template) — Public
+
+A reusable project scaffold for fiction writing work, designed primarily for personal use. The structure separates author-facing notes and drafting material from clean, public-facing wiki and story content. A GitHub Actions pipeline handles the separation automatically — stripping private frontmatter fields and cutting author notes before anything reaches the website's headless CMS.
 
 ### WP-World-Of-Essentia — Private
 
@@ -44,6 +48,7 @@ If you only want the public submodules, you can initialise them selectively:
 git submodule update --init WP-Author-Study
 git submodule update --init WP-Skills-Study
 git submodule update --init WP-Opus-Civile
+git submodule update --init WP-Template
 ```
 
 ## Tooling
